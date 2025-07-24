@@ -114,3 +114,39 @@ Visualizations included in the notebook:
 
 Successfully built a regression model that predicts IMDb ratings based on movie attributes. The model captures key features like director and genre influence and achieves strong performance on test data.
 
+# 🌸 Task 3 - Iris Flower Classification
+
+**CodSoft Internship - Task 3 (Data Science)**
+
+Built a machine learning model using the Iris dataset to classify flower species into Setosa, Versicolor, and Virginica. Implemented in Google Colab using Random Forest Classifier for high accuracy.
+
+## 📌 Notebook Link
+
+[🔗 Open in Google Colab](https://colab.research.google.com/drive/1pYqkFYIJ4i5otSuRuYCorV7S2p9DOfnq#scrollTo=wtHqo3Pycblh)
+
+## 📁 Dataset Used
+**Kaggle Dataset:**  
+[Iris Dataset](https://www.kaggle.com/datasets/saurabh00007/iriscsv)
+
+Used: `IRIS.csv` (uploaded manually to Colab)
+
+## 🧪 Tools & Libraries
+- Google Colab  
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- Seaborn, Matplotlib  
+
+## 🤖 Model & Evaluation
+- **Model:** Random Forest Classifier  
+- **Accuracy Achieved:** `0.93` on test set  
+- **Evaluation:** Confusion Matrix, Tabular Classification Report  
+
+## 📊 Visualizations
+- Pairplot of features by species  
+- Heatmap of feature correlations  
+- Clean tabular classification metrics  
+
+## 🧠 Outcome
+Successfully classified flower species with strong accuracy and clear visualization. Implemented clean preprocessing and formatted evaluation output for presentation.
+
